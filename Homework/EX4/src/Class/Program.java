@@ -16,18 +16,6 @@ public class Program {
                 }
             }
         }
-
-
-
-
-
-//        int [] [] mul = new int [20][10];
-//        for (int i = 1; i <= mul.length; i++) {
-//
-//            for (int j = 0;  j <= mul[i].length ; j++) {
-//                System.out.print(i + "*" + j + "=" + i *j);
-//            }
-//            System.out.println("\n");
-//        }
+        
     }
 }
