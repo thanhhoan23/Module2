@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Array.iml" filepath="$PROJECT_DIR$/.idea/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChuyenDoiNhietDo/ChuyenDoiNhietDo.iml" filepath="$PROJECT_DIR$/ChuyenDoiNhietDo/ChuyenDoiNhietDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaoNguoc/DaoNguoc.iml" filepath="$PROJECT_DIR$/DaoNguoc/DaoNguoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindMax/FindMax.iml" filepath="$PROJECT_DIR$/FindMax/FindMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindValue/FindValue.iml" filepath="$PROJECT_DIR$/FindValue/FindValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimGiaTriNhoNhat/TimGiaTriNhoNhat.iml" filepath="$PROJECT_DIR$/TimGiaTriNhoNhat/TimGiaTriNhoNhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XoaPhanTu/XoaPhanTu.iml" filepath="$PROJECT_DIR$/XoaPhanTu/XoaPhanTu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitapAQuang/baitapAQuang.iml" filepath="$PROJECT_DIR$/baitapAQuang/baitapAQuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findMin/findMin.iml" filepath="$PROJECT_DIR$/findMin/findMin.iml" />
+    </modules>
+  </component>
+</project>

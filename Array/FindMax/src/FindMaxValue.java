@@ -15,7 +15,7 @@ public class FindMaxValue {
 
 //        Tim so lon nhat
 
-        Integer [] numbers = {
+        Integer[] numbers = {
                11,1,5,2,9,10
         };
         int num = numbers[0];
