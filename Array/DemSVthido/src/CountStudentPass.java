@@ -14,7 +14,6 @@ public class CountStudentPass {
                 arr[i] = input.nextInt();
             };
         }
-        System.out.println(Arrays.toString(arr));
 
         int count = 0;
         System.out.println("List of mark: ");
@@ -24,6 +23,7 @@ public class CountStudentPass {
                 count++;
             }
         }
+        System.out.println(Arrays.toString(arr));
         System.out.println("So hoc sinh pass" + count);
 
     }
