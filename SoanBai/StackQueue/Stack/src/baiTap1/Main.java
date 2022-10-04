@@ -1,4 +1,4 @@
-package BaiTap1;
+package baiTap1;
 
 import java.util.ArrayList;
 import java.util.List;
